@@ -1,4 +1,4 @@
-I am a junior engineer in the field of computer vision, with initial experience in statistical data analysis, machine learning and mathematical modeling. As a computer science enthusiast, I am also passionate about developing my skills in IT, writing better code and expanding my general knowledge in the field.
+I am a junior engineer in the field of data science, with initial experience in statistical data analysis, machine learning and mathematical modeling. As a computer science enthusiast, I am also passionate about developing my skills in IT, writing better code and expanding my general knowledge in the field.
 
 ---
 
