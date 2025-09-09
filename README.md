@@ -1,6 +1,6 @@
 I am a junior engineer in the field of data science applied to ecology, with initial experience in statistical data analysis, machine learning and mathematical modeling. As a computer science enthusiast, I am also passionate about developing my skills in IT, writing better code and expanding my general knowledge in the field.
 
-[my website](https://theofabien.github.io/pers_website/)
+[my website](https://theofabien.github.io/)
 
 ---
 
