@@ -1,6 +1,6 @@
 I am an engineer in the field of data science applied to ecology, with experience in machine/deep learning, image processing, service deployment and system administration. 
 
-[my website](https://theofabien.github.io/)
+[homepage](https://theofabien.github.io/)
 
 ---
 
